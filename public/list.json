@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715358262~exp=1715361862~hmac=ad9c72f09e66ce5b6d68c226a2b9b55d08584fcdf9fb2032473f683a13a1c591&w=740"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715358262~exp=1715361862~hmac=ad9c72f09e66ce5b6d68c226a2b9b55d08584fcdf9fb2032473f683a13a1c591&w=740"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715358262~exp=1715361862~hmac=ad9c72f09e66ce5b6d68c226a2b9b55d08584fcdf9fb2032473f683a13a1c591&w=740"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715358262~exp=1715361862~hmac=ad9c72f09e66ce5b6d68c226a2b9b55d08584fcdf9fb2032473f683a13a1c591&w=740"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715358262~exp=1715361862~hmac=ad9c72f09e66ce5b6d68c226a2b9b55d08584fcdf9fb2032473f683a13a1c591&w=740"
+    }
+]
